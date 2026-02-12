@@ -11,3 +11,5 @@ Key Engineering Highlights:
 * Component-Based Character: Utilized a clean "Manager-Component" pattern to separate concerns between input handling, attributes, and inventory systems.
 
 * Event-Driven UI/UX: Leveraged Dynamic Multi-cast Delegates to drive UI updates, ensuring zero tight coupling between game logic and the HUD.
+
+* <img width="2751" height="1602" alt="image" src="https://github.com/user-attachments/assets/a9f5d3ed-f791-414c-ae61-c6ee74db1f2c" />
